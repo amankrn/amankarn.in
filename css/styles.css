@@ -515,55 +515,60 @@ img {
   display: block;
   background-color: var(--first-color);
 }
-
-.skills__html {
-  width: 90%;
+.skills__python {
+  width: 80%;
 }
-
+.skills__tab {
+  width: 60%;
+}
+.skills__sql {
+  width: 70%;
+}
+.skills__excel {
+  width: 70%;
+}
+.skills__odoo {
+  width: 80%;
+}
+.skills__django {
+  width: 70%;
+}
+.skills__flask {
+  width: 70%;
+}
+.skills__fastapi {
+  width: 80%;
+}
+.skills__numpy {
+  width: 70%;
+}
+.skills__pandas {
+  width: 80%;
+}
+.skills__matsea {
+  width: 70%;
+}
+.skills__sklearn {
+  width: 70%;
+}
+.skills__html {
+  width: 80%;
+}
 .skills__css {
   width: 80%;
 }
-
 .skills__js {
   width: 60%;
 }
-
-.skills__wordpress {
+.skills__jquery {
   width: 70%;
 }
-
-.skills__python {
-  width: 60%;
-}
-
-.skills__tab {
+.skills__php {
   width: 70%;
 }
-
-.skills__sql {
-  width: 50%;
-}
-
-.skills__google {
+.skills__bootstrap {
   width: 70%;
 }
-
-.skills__bank {
-  width: 80%;
-}
-
-.skills__google {
-  width: 70%;
-}
-
-.skills__counter {
-  width: 80%;
-}
-
-.skills__office {
-  width: 90%;
-}
-
 .skills__close .skills__list {
   height: 0;
   overflow: hidden;
